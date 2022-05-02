@@ -2,6 +2,7 @@ package psn.hwh.model;
 
 public class Bill {
 
+    /** 账单id */
     private String billId;
     /** 账单日 */
     private String billDate;
