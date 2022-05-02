@@ -3,6 +3,7 @@ package psn.hwh.model;
 public class Bill {
 
     private String billId;
+    /** 账单日 */
     private String billDate;
 
     public String getBillId() {
